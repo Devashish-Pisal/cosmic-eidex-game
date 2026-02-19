@@ -92,7 +92,7 @@ This project was developed as part of the **Software Engineering Project (SEP)**
 - [Tim Brombacher](https://github.com/Tim-b0)
 - [Niklas Brühl](https://github.com/NexoBee)
 - [Oliver Thull](https://github.com/unbenutzterName)
-- [Ruslan Sidukov](https://github.com/ruslanSidukov)
+- Ruslan Sidukov
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
 
 ---
