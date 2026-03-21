@@ -1,11 +1,11 @@
-# 🌌 Cosmic Eidex
+#  Cosmic Eidex
 ### Multiplayer Client-Server Card Game | Java • JavaFX • Sockets • SQLite
 
 > A real-time multiplayer implementation of the traditional Swiss card game **Eidex**, built with a scalable client-server architecture, JavaFX GUI, bot integration, and persistent user statistics.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Cosmic Eidex** is a distributed multiplayer card game designed to demonstrate real-world software engineering principles including:
 
@@ -22,7 +22,7 @@ It reflects strong understanding of backend systems, networking, concurrency, UI
 
 ---
 
-## 🏗 Architecture & Design
+##  Architecture & Design
 
 ### 🔹 Client-Server Model
 - Dedicated server handles:
@@ -35,7 +35,7 @@ It reflects strong understanding of backend systems, networking, concurrency, UI
 - Concurrent request handling with thread safety
 - Real-time state synchronization across players
 
-### 🔹 MVC Pattern
+###  MVC Pattern
 The application follows a clean Model-View-Controller separation:
 
 **Model**
@@ -59,34 +59,34 @@ The application follows a clean Model-View-Controller separation:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🎮 Multiplayer Gameplay
+###  Multiplayer Gameplay
 - Up to 3 players per room
 - Real-time trick-taking card game mechanics
 - Room creation, join, and leave functionality
 - In-game chat support
 
-### 🤖 Bot Integration
+###  Bot Integration
 - EasyBot and HardBot
 - Configurable response delay
 - Fully integrated into multiplayer sessions
 - Automatic turn execution
 
-### 🔐 Authentication & Persistence
+###  Authentication & Persistence
 - User registration and login
 - SQLite-backed database
 - Persistent leaderboard
 - Stored player statistics
 
-### 🧠 Game Logic Implementation
+###  Game Logic Implementation
 - Custom Eidex rules
 - Trump handling
 - Trick resolution
 - Score calculation
 - Round and session lifecycle management
 
-### ⚙ Robust Backend
+###  Robust Backend
 - Thread-safe server
 - Modular architecture
 - Clear separation of networking and logic
@@ -94,7 +94,7 @@ The application follows a clean Model-View-Controller separation:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/main/java/com/group06/cosmiceidex/
@@ -110,19 +110,19 @@ src/main/resources/com/group06/cosmiceidex/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Lobby & Room Management
+###  Lobby & Room Management
 ![Lobby](assets/lobby.png)
 
-### 🃏 In-Game Interface
+###  In-Game Interface
 ![Gameplay](assets/gaming-room.png)
 
-### 📊 Leaderboard
+###  Leaderboard
 ![Leaderboard](assets/leaderboard.png)
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 A full demo walkthrough is available in the repository.
 
@@ -141,7 +141,7 @@ The video demonstrates:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Java 17+**
 - **JavaFX**
@@ -152,16 +152,16 @@ The video demonstrates:
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
-### ✅ Prerequisites
+###  Prerequisites
 - Java 17 or higher
 - Maven
 - SQLite
 
 ---
 
-### 🔧 Option 1 — Using Prebuilt JAR Files
+###  Option 1 — Using Prebuilt JAR Files
 
 Prebuilt JAR files are located in:
 
@@ -179,7 +179,7 @@ Start the server first, then run one or more clients in separate terminals.
 
 ---
 
-### 🔧 Option 2 — Run from Source
+###  Option 2 — Run from Source
 
 ```bash
 mvn clean install
@@ -190,7 +190,7 @@ Run server and client modules separately if required.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Unit tests are implemented using JUnit.
 
@@ -202,7 +202,7 @@ mvn test
 
 ---
 
-## 🧩 Engineering Highlights
+##  Engineering Highlights
 
 - Real-time multiplayer synchronization
 - Concurrency-safe session handling
@@ -215,7 +215,7 @@ This project demonstrates backend architecture skills, networking fundamentals, 
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 - [Tim Brombacher](https://github.com/Tim-b0)
 - [Niklas Brühl](https://github.com/NexoBee)
@@ -225,13 +225,13 @@ This project demonstrates backend architecture skills, networking fundamentals, 
 
 ---
 
-## 📌 Academic Context
+##  Academic Context
 
 Developed as part of the Software Engineering Project (SEP) course at RPTU Kaiserslautern, Summer Semester 2025.
 
 ---
 
-## ⭐ Portfolio Note
+##  Portfolio Note
 
 This project represents a full-stack desktop application with:
 
