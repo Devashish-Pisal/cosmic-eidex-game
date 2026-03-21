@@ -24,7 +24,7 @@ It reflects strong understanding of backend systems, networking, concurrency, UI
 
 ##  Architecture & Design
 
-### 🔹 Client-Server Model
+###  Client-Server Model
 - Dedicated server handles:
     - Game sessions
     - Player matchmaking
